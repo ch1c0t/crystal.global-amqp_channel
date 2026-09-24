@@ -1,0 +1,13 @@
+name: global-amqp_channel
+version: 0.1.0
+
+authors:
+  - Anatoly Chernov <chertoly@gmail.com>
+
+crystal: '>= 1.21.0'
+
+license: MIT
+
+dependencies:
+  amqp-client:
+    github: cloudamqp/amqp-client.cr
